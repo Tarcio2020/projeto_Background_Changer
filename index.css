@@ -1,0 +1,16 @@
+body {
+    height: 100vh;/* virtual hight*/
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+}
+
+button {
+    border-radius: 10px;
+    height: 30px;
+    border: 20px;
+
+    
+}
+
+
